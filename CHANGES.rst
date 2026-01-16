@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.0.19 (????-??-??)
+0.0.19 (2026-01-17)
 -------------------
 
 - debugging output of json data now outputs valid json

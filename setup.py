@@ -50,7 +50,7 @@ setup(
         "kodi.imdb",
         "kodi.omdb",
     ],
-    version="0.0.18",
+    version="0.0.19",
     author='Peter "fracpete" Reutemann',
     author_email='fracpete@gmail.com',
     install_requires=[
